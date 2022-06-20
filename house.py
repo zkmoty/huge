@@ -28,6 +28,7 @@ def draw_house():
 def main():
     turtle.title("My House")
     turtle.Screen().bgcolor("lightblue")
+    turtle.speed(9)
     draw_house()
     turtle.exitonclick()
 
