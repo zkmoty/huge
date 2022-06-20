@@ -27,7 +27,7 @@ def draw_house():
 
 def main():
     turtle.title("My House")
-    turtle.Screen().bgcolor("cyan")
+    turtle.Screen().bgcolor("lightblue")
     draw_house()
     turtle.exitonclick()
 
